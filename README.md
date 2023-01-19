@@ -17,7 +17,7 @@ In this Project, I have designed Flipkart Page.
 </p>
 
 <h2>Screenshot</h2>
-<img style="border: 3px solid black"; src="https://github.com/anjali-sim/Practical-2-HTML-and-CSS/blob/85b454645cadd17df521927f4216fa16a975c8f5/Final%20Outcome.png" alt="">
+<img style="border: 3px solid black"; src="https://github.com/anjali-sim/Practical-2-HTML-CSS-main/blob/df2c573e655ca3c37479e00f6188dec492644cff/1.png" alt="">
 <br>
 
  <h2>Check Live</h2>
